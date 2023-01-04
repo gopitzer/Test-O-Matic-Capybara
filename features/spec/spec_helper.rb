@@ -14,3 +14,4 @@ Capybara.configure do |config|
   config.default_driver = :custom
   config.app_host = 'https://www.google.com' # change url
 end
+#comment for commit
